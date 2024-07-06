@@ -1,16 +1,32 @@
-## Hi there 👋
 
-<!--
-**Antonio-503/Antonio-503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Antonio 👋
 
-Here are some ideas to get you started:
+Welcome to my Data Analyst portfolio! 
+## 🚀 About Me
+I am a Data Analyst with experience in various tools and technologies to collect, clean & organize datasets, allowing data-driven decisions. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+I have an international business development background and hold a Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including: logistics, virtual production, action sports & retail. 
+
+I am currently working at Globe Europe as a sales administrator and analytics specialist for  UK, Italy & Benelux. 
+
+
+
+
+ 
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-lacayo)
+
+
+
+## 🛠 Skills
+Python, SQL, Streamlit, Tableau, Exploratory Data Analysis (EDA), Command Line Interface, HTML... 
+## Other 
+👩‍💻 I'm currently working on a Streamlit Sales Dashboard
+
+🧠 I'm currently learning Machine Learning techniques
+
+
+
