@@ -22,7 +22,14 @@ I am currently working at Globe Europe as a sales administrator and analytics sp
 
 
 ## 🛠 Skills
-Python, SQL, Streamlit, Tableau, Exploratory Data Analysis (EDA), Command Line Interface, HTML... 
+1. Python
+2. SQL
+3. Streamlit
+4. Tableau
+5. Exploratory Data Analysis (EDA)
+6. Command Line Interface
+7. HTML...
+    
 ## Other 
 👩‍💻 I'm currently working on a Streamlit Sales Dashboard
 
