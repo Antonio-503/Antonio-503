@@ -1,7 +1,7 @@
 
 # Hi, I'm Antonio 👋
 
-Welcome to my Data Analyst portfolio.
+Welcome to my portfolio.
 ## 🚀 About Me
 I am a Data Analyst with experience in various tools and technologies to collect, clean & organize datasets, allowing data-driven decisions. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
 
