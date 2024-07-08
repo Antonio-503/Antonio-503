@@ -6,7 +6,7 @@ Welcome to my Data Analyst portfolio!
 I am a Data Analyst with experience in various tools and technologies to collect, clean & organize datasets, allowing data-driven decisions. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
 
 
-I have an International Business Development background and hold a Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including: logistics, virtual production, action sports & retail. 
+I have an International Business Development background and hold a Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including logistics, virtual production, action sports & retail. 
 
 I am currently working at Globe Europe as a sales administrator and analytics specialist for  UK, Italy & Benelux. 
 
