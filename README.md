@@ -3,7 +3,7 @@
 
 Welcome to my portfolio.
 ## 🚀 About Me
-I am a Data Analyst with experience in several tools and technologies to collect, clean, analyze & visualize datasets, enabling data-driven decisions. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
+I am a Data Analyst with experience in several tools and technologies to collect, clean, analyze & visualize datasets. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
 
 I have an Economics background and hold a Business Development Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including logistics, virtual production, action sports & retail. 
 
