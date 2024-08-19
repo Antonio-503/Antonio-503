@@ -2,7 +2,7 @@
 # Hi, I'm Antonio 👋
 
 Welcome to my portfolio.
-## 🚀 About Me
+## About Me
 I am a Data Analyst with experience in several tools and technologies to collect, clean & analyze datasets. I enjoy applying my data skills to uncover insights & enable data-driven decisions in business applications. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
 
 I have an Economics background and hold a Business Development Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including logistics, virtual production, action sports & retail. 
