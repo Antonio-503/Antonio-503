@@ -3,11 +3,9 @@
 
 Welcome to my portfolio.
 ## About Me
-I am a Data Analyst with experience in several tools and technologies to collect, clean & analyze datasets. I enjoy applying my data skills to uncover insights & enable data-driven decisions in business applications. I am proficient in Python, SQL, Excel, Streamlit and Tableau. 
+I am a Data Analyst skilled in Python automation, data cleaning, and visualization. I use Python, SQL, Excel, Tableau, and Streamlit to automate data workflows and deliver insights. My background in Economics and Business Development has been applied in logistics, retail, and action sports.
 
-I have an Economics background and hold a Business Development Master's degree from IAE de Bordeaux. Luckily, I've had experiences in a great variety of fields including logistics, virtual production, action sports & retail. 
-
-I am currently working at Globe Europe as a sales administrator and analytics specialist for  UK, Italy & Benelux. 
+Currently, I work at Globe Europe as a Sales Administrator and Analytics Specialist, managing sales data and providing analytics for the UK, Italy, and Benelux regions. I focus on automating business processes and supporting data-driven decisions. 
 
 
 
